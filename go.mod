@@ -309,3 +309,5 @@ tool (
 	google.golang.org/protobuf/cmd/protoc-gen-go
 	mvdan.cc/gofumpt
 )
+
+replace github.com/erigontech/mdbx-go => github.com/kuznecovlipeck/mdbx-go v0.0.0-20261110214740-5c487c843a92

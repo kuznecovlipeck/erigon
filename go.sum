@@ -239,8 +239,6 @@ github.com/erigontech/evmone_precompiles v0.0.0-20260414072133-b8b2bdc99de2 h1:B
 github.com/erigontech/evmone_precompiles v0.0.0-20260414072133-b8b2bdc99de2/go.mod h1:WQvAqmoairhdM5RFNFDKK9oT6dzuZEbWMJH+ZdRTjP0=
 github.com/erigontech/fastkeccak v0.1.1-0.20260408010752-08e7b6602268 h1:NHl4+DjblLuHBJradIg9KriKmtByjRvLqLhkVODibac=
 github.com/erigontech/fastkeccak v0.1.1-0.20260408010752-08e7b6602268/go.mod h1:CwJFJVKFVWpQyKSfRrQyY56IqV16sR5xnQoFThGHiZA=
-github.com/erigontech/mdbx-go v0.42.0 h1:ZXQ0UqtxZLC/wDZJL4ACBLuNznD1vJQKhayp2HD1JH4=
-github.com/erigontech/mdbx-go v0.42.0/go.mod h1:Ps2n0MMTlU+BgecMWznc/Z7oGJWDJX/EQk+gUCTSaRo=
 github.com/erigontech/secp256k1 v1.4.0 h1:kQLdnJ5jLqkDTBup9PpWirUZw1u2F/nHskQSKbKA4f0=
 github.com/erigontech/secp256k1 v1.4.0/go.mod h1:CnigLRUsfobnTYoUzwdT/De67fw9OhTA0KTkxa+svik=
 github.com/fatih/color v1.19.0 h1:Zp3PiM21/9Ld6FzSKyL5c/BULoe/ONr9KlbYVOfG8+w=
@@ -444,6 +442,8 @@ github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
+github.com/kuznecovlipeck/mdbx-go v0.0.0-20261110214740-5c487c843a92 h1:2AdT/fpRq5zNYhPYRPfjT9H58q6Fs5gu0PgUR7Xaiss=
+github.com/kuznecovlipeck/mdbx-go v0.0.0-20261110214740-5c487c843a92/go.mod h1:Ps2n0MMTlU+BgecMWznc/Z7oGJWDJX/EQk+gUCTSaRo=
 github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0SNc=
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/leanovate/gopter v0.2.11 h1:vRjThO1EKPb/1NsDXuDrzldR28RLkBflWYcU9CvzWu4=
